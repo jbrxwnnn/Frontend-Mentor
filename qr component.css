@@ -1,0 +1,23 @@
+body {
+    width: 1440px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+#image {
+    border-radius: 10px;
+}
+
+#text {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+
+#text-bold {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#text-norm {
+    font-weight: 400;
+    font-size: 15px;
+}
